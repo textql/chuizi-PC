@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('../fonts/iconfont.eot?t=1564112806053'); /* IE9 */
+  src: url('../fonts/iconfont.eot?t=1564112806053#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOUAAsAAAAAB5QAAANIAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqCdIJIATYCJAMMCwgABCAFhG0HPhuWBsguMRUZ6fRkrcQ138BCPwN7u3gJxNc7F0E4Vs4mOWT1rxD9lzWgqqwCMqoKWKnaKhC6nlC4+1On/xIXCFScCFgFDMiOG5BPUT8xTIQ0bLyxnXLUlkWaQVvS/AD2BJT47wCps3opIKOVYIur/3M5vSl+jW9ZLmNOGmPQYYBxz3uBjjmBAylhbBi78iI2E2halERzpqapC1wURq9A3JIlHbikjEpNfqgL1ZKJRTwBqKdH2ocAHvu/j1+QES4klcwYeP5mtRHKvk75uVSYpTIXAdF4drBpZGwBhbhR6rxOCCNbBE1F6VCfXlWENJZfHfhCVV41//BIgqgycttgDemTkxLZHBI/E5/1NhlUUcM94Dkix8dnpVub4drY7/Vr3Nr9qvrjmzj3ly/737+K8dj7Rtcs4aUW72qevBjhsP1atveZG9GOOy4b3HZeWXpp1sUlofKUN3z2lYElbm6vDoVsPuzuedljw74ADX4cxjvCtrzGb182X1l/OHR7d/e6Y9neB48EDWx8o2btxIma/m6nutq2NrvIqVvTP3Fi/8HIV+cIFcc5OgNneFChaVKE09Qs/7ePfq+Yw4x2t6DWme5bk/bCT/zz9D588tkVErJH+yq095HPyqCgOT6ngjs/Rv/RzNzGxJm1s4tC/OvaF5f63Kkx5Gz4c+n1s6SsLG0NjALMXwkErP5Sv0A+93N28/mtISPeRdO9gE/eHMDidtVXAdQlWot+RbMC81+gcIlhykVWqq0KZGcM3DOhqYk5YO/Q5/7aye3aQz0lYpDULEBWt4QWcgsqWo6gqu4YmjbVTm8ZYQRRGtgwH0DoOwJJ1zvI+h6hhfwEFVNfoKofAjRdDf8FW1ZCdqtkRMeJEeknI9lAbaJl4W5BfgeRxi06lpT4FCbMLvtRekpaNl5LbISNMcQ+QcrgXEQio1ZUA7YjFgtFCqNjxMBTTJwrBampYtmbUgzUCm5OYwgdjjBC9CZDZAaUjejW59xy3+9ASMZZ6LAaWoUbIxg7uXUkXYq0Fmit0taKdi3X2E0gycBxIkTEUFZIDbATFjNCIUp5uzGEAZfC1COkKJCKaoltlSnzq63PtwGajB1ypMhR1B+aqKLINsk1cKQDAA==') format('woff2'),
+  url('../fonts/iconfont.woff?t=1564112806053') format('woff'),
+  url('../fonts/iconfont.ttf?t=1564112806053') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('../fonts/iconfont.svg?t=1564112806053#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shopping:before {
+  content: "\ea8b";
+}
+
+.icon-shopping1:before {
+  content: "\e67a";
+}
+
